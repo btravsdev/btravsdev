@@ -8,6 +8,8 @@ I build accessible, responsive websites with thoughtful animation and strong vis
 
 ## Selected Work
 
+Some notable clients I've worked with include Volkswagen, Endeavor Health (NorthShore HealthSystem), Kawasaki Engines USA, the Baltimore Orioles, and A to Z Wineworks. Here are a few examples of that work:
+
 ### [Notorious111](https://notorious111.com/)
 
 Built the agency’s website using Vue, Nuxt, and GSAP, including its animation and interactive experiences.
