@@ -1,14 +1,34 @@
 # Howdy, I’m Brian Travers
 
-I’m a Chicago-based front-end developer with a background in graphic design and more than a decade of agency experience.
+Chicago-based full-stack developer, former graphic designer, and agency veteran with 10+ years of experience building websites and all things digital. I'm currently looking for a full-time developer role with an agency or in-house product team, either remotely or in Chicago.
 
-I build accessible, responsive websites with thoughtful animation and strong visual details—big sites and small landing pages alike. I have particular expertise in HTML email and display ad development, and small agencies have let me dabble in data visualization, dashboards, Snapchat games, Facebook apps, MIDI audio, and analytics. If you're paying to build something, I'm interested in learning how. See my pinned repos, [https://btravs.com/experiments](btravs.com/experiments), or [https://codepen.io/btravs](codepen.io/btravs) for recent tinkering.
+## Skills
+- I build big websites and small landing pages alike with a purposeful mix of hand-written and AI-generated code.
+- Paramount to my process is creating accessibile, well-documented and maintainable code.
+- I have a historical knowledge and updated expertise in programming HTML email and display ad development.
+- My most valuable skill is my curiousity and passion for problem solving, adding value beyond the ‘dev team’.  Over the past few years, I’ve worked on data visualization, dashboards, 360-degree virtual tours, Snapchat games, Facebook video ads, broadcast commercials, in-stadium jumbotron video, custom MIDI audio tracks, website analytics reports among many others. But my base of my skills are below: 
 
-**I'm currently looking for a full-time front-end developer role**, open to both agency and in-house/product teams. Remote or Chicago-based.
+**Core: **
+HTML, CSS, SCSS, JavaScript, SVG
+
+**Frameworks: **
+Vue, Nuxt, React, Next.js, Astro
+
+**Animation & Motion: **
+GSAP, CSS animation, After Effects
+
+**CMS: **
+WordPress, PHP (and Laravel), Squarespace, BigCommerce
+
+**Tools: **
+Git, Figma, Cursor AI, Claude Code, Adobe Creative Suite
+
+**Back-end: **
+Cloudflare, Netlify
 
 ## Selected Work
 
-Some notable clients I've worked with include Volkswagen, Endeavor Health (NorthShore HealthSystem), Kawasaki Engines USA, the Baltimore Orioles, and A to Z Wineworks. Here are a few examples of that work:
+Some notable clients I've worked with include Volkswagen, the Baltimore Orioles, Endeavor Health (NorthShore HealthSystem), Kawasaki Engines USA, Monumental Sports, A to Z Wineworks and Greater Chicago Food Depository. Here are a few examples of more work:
 
 ### [Notorious111](https://notorious111.com/)
 
@@ -22,38 +42,23 @@ Handled much of the front-end development for this large Next.js project as part
 
 Helped bring this Next.js website to launch as part of the development team. I’ve since served as its primary developer for maintenance and upgrades.
 
+For more work examples, see my pinned repos, [https://btravs.com/experiments](btravs.com/experiments), or [https://codepen.io/btravs](codepen.io/btravs) for recent tinkering.
+
 ## Experience
 
-**Developer — Notorious111**  
-August 2022–Present
-Working on projects individually and on teams of developers using agile methods. Lots of collaboration with account services, strategists, analytics, copywriters and designers.
+**Developer — Notorious111 (previously HZ)**  
+August 2022–July 2026
+Working individually and on teams of developers using agile methods. Frequent collaboration with stragetists, account teams, copywriters and designers.  
 
 **Web Developer, Senior Developer — 88 Brand Partners**  
 May 2014–August 2022
-One of two web developers at a small but robust agency building on a wide variety of projects.
+On a small team of developers at a lean but robust boutique agency. Also doubled as the in-house motion graphics lead.
 
 **Graphic Designer — Promotional Product Partners**  
 September 2005–May 2014
 Responsible for all tasks of the art department.  Evolved with the company to grow digital presence and sparked interest in development.
 
-## Skills
 
-**Core**
-HTML, CSS, SCSS, JavaScript, SVG
-
-**Frameworks**
-Vue, Nuxt, React, Next.js, Astro
-
-**Animation & Motion**
-GSAP, CSS animation, After Effects, motion graphics
-
-**Accessibility & Responsive Development**
-
-**CMS & Back-End**
-WordPress, Drupal, BigCommerce, PHP, basic server maintenance, back-end integration, HTML email development
-
-**Tools**
-Git, Figma, Cursor AI, Claude Code, Adobe Creative Suite
 
 ## Education
 
