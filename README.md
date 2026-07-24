@@ -6,7 +6,7 @@ Chicago-based full-stack developer, former graphic designer, and agency veteran 
 - I build big websites and small landing pages alike with a purposeful mix of hand-written and AI-generated code.
 - Paramount to my process is creating accessibile, well-documented and maintainable code.
 - I have a historical knowledge and updated expertise in programming HTML email and display ad development.
-- My most valuable skill is my curiousity and passion for problem solving, adding value beyond the ‘dev team’.  Over the past few years, I’ve worked on data visualization, dashboards, 360-degree virtual tours, Snapchat games, Facebook video ads, broadcast commercials, in-stadium jumbotron video, custom MIDI audio tracks, website analytics reports among many others. But my base of my skills are below: 
+- My most valuable skill is my curiousity and passion for problem solving, adding value beyond the ‘dev team’.  Over the past few years, I’ve worked on data visualization, dashboards, 360-degree virtual tours, Snapchat games, Facebook video ads, broadcast commercials, in-stadium jumbotron video, custom MIDI audio tracks, website analytics reports among many others. The foundation of my skills are below: 
 
 **Core:**
 HTML, CSS, SCSS, JavaScript, SVG
