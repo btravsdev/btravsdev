@@ -48,7 +48,7 @@ For more work examples, see my pinned repos, [https://btravs.com/experiments](bt
 
 **Developer — Notorious111 (previously HZ)**  
 August 2022–July 2026
-Working individually and on teams of developers using agile methods. Frequent collaboration with stragetists, account teams, copywriters and designers.  
+Working individually and on teams of developers using agile methods. Frequent collaboration with strategists, account teams, copywriters and designers.  
 
 **Web Developer, Senior Developer — 88 Brand Partners**  
 May 2014–August 2022
