@@ -8,22 +8,22 @@ Chicago-based full-stack developer, former graphic designer, and agency veteran 
 - I have a historical knowledge and updated expertise in programming HTML email and display ad development.
 - My most valuable skill is my curiousity and passion for problem solving, adding value beyond the ‘dev team’.  Over the past few years, I’ve worked on data visualization, dashboards, 360-degree virtual tours, Snapchat games, Facebook video ads, broadcast commercials, in-stadium jumbotron video, custom MIDI audio tracks, website analytics reports among many others. But my base of my skills are below: 
 
-**Core: **
+**Core:**
 HTML, CSS, SCSS, JavaScript, SVG
 
-**Frameworks: **
+**Frameworks:**
 Vue, Nuxt, React, Next.js, Astro
 
-**Animation & Motion: **
+**Animation & Motion:**
 GSAP, CSS animation, After Effects
 
-**CMS: **
+**CMS:**
 WordPress, PHP (and Laravel), Squarespace, BigCommerce
 
-**Tools: **
+**Tools:**
 Git, Figma, Cursor AI, Claude Code, Adobe Creative Suite
 
-**Back-end: **
+**Back-end:**
 Cloudflare, Netlify
 
 ## Selected Work
@@ -67,7 +67,7 @@ Saint Mary’s University of Minnesota, 2000–2004
 
 ## Let’s Talk
 
-- [Portfolio](https://btravs.com/)
-- [LinkedIn](https://www.linkedin.com/in/btravs/)
-- [GitHub](https://github.com/btravsdev)
-- [holler@briantravers.com](mailto:holler@briantravers.com)
+- [Portfolio - btravs.com](https://btravs.com/)
+- [Codepen - codepen.io/btravs](https://codepen.io/btravs)
+- [LinkedIn - linkedin.com/in/btravs](https://www.linkedin.com/in/btravs/)
+- [Email - holler@briantravers.com](mailto:holler@briantravers.com)
