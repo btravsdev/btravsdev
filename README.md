@@ -36,7 +36,7 @@ Built the agency’s website using Vue, Nuxt, and GSAP, including its animation 
 
 ### [Engel & Völkers Americas](https://www.evrealestate.com/)
 
-Handled much of the front-end development for this large Next.js project as part of a multidisciplinary team, with some back-end contributions.
+Contributed to the front-end development of a large-scale, international Next.js website as part of a multidisciplinary team, while also integrating multiple back-end APIs to support dynamic content and functionality.
 
 ### [Kawasaki Engines USA](https://kawasakienginesusa.com/)
 
