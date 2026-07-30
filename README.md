@@ -26,7 +26,7 @@ WordPress, PHP (and Laravel), Squarespace, BigCommerce
 Git, Figma, Cursor AI, Claude Code, Adobe Creative Suite
 
 **Back-end:**
-Cloudflare, Netlify
+REST APIs, API Integration, Cloudflare, Netlify
 
 ## Selected Work
 
