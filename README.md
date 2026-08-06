@@ -1,66 +1,66 @@
 # Howdy, I’m Brian Travers
 
-Chicago-based full-stack developer, former graphic designer, and agency veteran with 10+ years of experience building websites and all things digital. I'm currently looking for a full-time developer role with an agency or in-house product team, either remotely or in Chicago.
+I’m a Chicago-based front-end engineer with a background in graphic design and 10+ years of agency experience building modern, CMS-driven web applications.
 
-## Skills
-- I build big websites and small landing pages alike with a purposeful mix of hand-written and AI-generated code.
-- Paramount to my process is creating accessible, well-documented and maintainable code.
-- I have a historical knowledge and updated expertise in programming HTML email and display ad development.
-- My most valuable skill is my curiosity and passion for problem solving, adding value beyond the ‘dev team’.  Over the past few years, I’ve worked on data visualization, dashboards, 360-degree virtual tours, Snapchat games, Facebook video ads, broadcast commercials, in-stadium jumbotron video, custom MIDI audio tracks, website analytics reports among many others.
+## Approach
 
-The foundation of my skills are below: 
+- I build modern web applications with a thoughtful combination of hand-written and AI-assisted code, focusing on scalable architecture, reusable components, and maintainable front-end systems.
 
-**Core:**
-HTML, CSS, SCSS, JavaScript, SVG
+- I enjoy owning products beyond launch—evolving CMS platforms, integrating APIs, improving publishing workflows, and partnering with designers, marketers, and stakeholders to continually improve the user experience. 
 
-**Frameworks:**
-Vue, Nuxt, React, Next.js, Astro
-
-**Animation & Motion:**
-GSAP, CSS animation, After Effects
-
-**CMS:**
-WordPress, PHP (and Laravel), Squarespace, BigCommerce
-
-**Tools:**
-Git, Figma, Cursor AI, Claude Code, Adobe Creative Suite
-
-**Back-end:**
-REST APIs, API Integration, Cloudflare, Netlify
+**I'm currently looking for a full-time front-end developer role**, open to both agency and in-house/product teams. Remote or Chicago-based.
 
 ## Selected Work
 
-Some notable clients I've worked with include Volkswagen, the Baltimore Orioles, Endeavor Health (NorthShore HealthSystem), Kawasaki Engines USA, Monumental Sports, A to Z Wineworks and Greater Chicago Food Depository. Here are a few examples of more work:
+Some notable clients I've worked with include Volkswagen, Endeavor Health (NorthShore HealthSystem), Kawasaki Engines USA, Baltimore Orioles, and A to Z Wineworks. Below are a few projects that highlight my approach to front-end engineering, CMS architecture, and interactive development.
 
 ### [Notorious111](https://notorious111.com/)
 
-Built the agency’s website using Vue, Nuxt, and GSAP, including its animation and interactive experiences.
+Rather than treating the agency website as a marketing piece, I saw it as an opportunity to showcase modern front-end techniques. Built with Vue, Nuxt, and GSAP, the site combines thoughtful animation, performance, and responsive interactions while reflecting the agency's creative identity.
 
 ### [Engel & Völkers Americas](https://www.evrealestate.com/)
 
-Contributed to the front-end development of a large-scale, international Next.js website as part of a multidisciplinary team, while also integrating multiple back-end APIs to support dynamic content and functionality.
+Contributed significant front-end development to this large-scale Next.js application, collaborating with designers, developers, and back-end engineers to integrate complex API data with a Contentful CMS. Owned several key components and helped maintain the platform through ongoing enhancements and production support.
 
 ### [Kawasaki Engines USA](https://kawasakienginesusa.com/)
 
-Helped bring this Next.js website to launch as part of the development team. I’ve since served as its primary developer for maintenance and upgrades.
+Helped build and launch the Next.js and Sanity CMS platform before transitioning into the role of technical lead. Since launch, I've overseen the site's continued evolution through feature development, CMS enhancements, API integrations, A/B testing, bug fixes, and long-term maintenance. It's been especially rewarding to own and improve the platform over multiple years rather than simply launching it.
 
-For more work examples, see my pinned repos, [https://btravs.com/experiments](btravs.com/experiments), or [https://codepen.io/btravs](codepen.io/btravs) for recent tinkering.
+See my pinned repos, [https://btravs.com/experiments](btravs.com/experiments), or [https://codepen.io/btravs](codepen.io/btravs) for recent tinkering.
 
 ## Experience
 
-**Developer — Notorious111 (previously HZ)**  
+### **Developer — Notorious111**  
 August 2022–July 2026
-Working individually and on teams of developers using agile methods. Frequent collaboration with strategists, account teams, copywriters and designers.  
 
-**Web Developer, Senior Developer — 88 Brand Partners**  
+Built and maintained CMS-driven web applications for enterprise and consumer brands using modern front-end frameworks. Collaborated across strategy, design, and development teams while owning complex features, API integrations, and long-term platform improvements.
+
+### **Web Developer, Senior Developer — 88 Brand Partners**  
 May 2014–August 2022
-On a small team of developers at a lean but robust boutique agency. Also doubled as the in-house motion graphics lead.
 
-**Graphic Designer — Promotional Product Partners**  
+Built responsive marketing websites, interactive experiences, and custom digital applications while helping establish front-end architecture and serving as the agency's motion graphics lead.
+
+### **Graphic Designer — Promotional Product Partners**  
 September 2005–May 2014
-Responsible for all tasks of the art department.  Evolved with the company to grow digital presence and sparked interest in development.
 
+Led the company's graphic's department while expanding its digital presence through website development and online marketing. This role sparked a transition from graphic design into front-end development and laid the foundation for a career focused on building digital products.
 
+## Skills
+
+**Core**
+HTML • CSS/SCSS • JavaScript • TypeScript • SVG
+
+**Frameworks**
+React • Next.js • Vue • Nuxt • Astro
+
+**CMS**
+Sanity • Contentful • WordPress • PHP / Laravel • Squarespace
+
+**Tools**
+Git • Figma • Cursor • Claude Code
+
+**Additional Skills**
+HTML Email Development • Display Advertising • Motion Graphics • After Effects • Adobe Illustrator
 
 ## Education
 
@@ -69,7 +69,7 @@ Saint Mary’s University of Minnesota, 2000–2004
 
 ## Let’s Talk
 
-- [Portfolio - btravs.com](https://btravs.com/)
-- [Codepen - codepen.io/btravs](https://codepen.io/btravs)
-- [LinkedIn - linkedin.com/in/btravs](https://www.linkedin.com/in/btravs/)
-- [Email - holler@briantravers.com](mailto:holler@briantravers.com)
+- [Portfolio](https://btravs.com/)
+- [LinkedIn](https://www.linkedin.com/in/btravs/)
+- [GitHub](https://github.com/btravsdev)
+- [holler@briantravers.com](mailto:holler@briantravers.com)
