@@ -44,12 +44,15 @@ Helped build and launch the Next.js and Sanity CMS platform before transitioning
 
 See my pinned repos, [https://btravs.com](btravs.com), or [https://codepen.io/btravs](codepen.io/btravs) for recent work.
 
+## Approach
+
+- I build modern web applications with a thoughtful combination of hand-written and AI-assisted code, focusing on scalable architecture, reusable components, and maintainable front-end systems.
+
+- I enjoy owning products beyond launch—evolving CMS platforms, integrating APIs, improving publishing workflows, and partnering with designers, marketers, and stakeholders to continually improve the user experience. 
+
 ## Skills
 
 ```yaml
-approach:
-  -I build modern web applications with a thoughtful combination of hand-written and AI-assisted code, focusing on scalable architecture, reusable components, and maintainable front-end systems.
-  - I enjoy owning products beyond launch—evolving CMS platforms, integrating APIs, improving publishing workflows, and partnering with designers, marketers, and stakeholders to continually improve the user experience. 
 skills:
   Core Skills:
     - HTML
